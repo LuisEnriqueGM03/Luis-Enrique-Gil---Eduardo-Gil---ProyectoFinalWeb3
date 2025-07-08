@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'padron_electoral.urls'
+ROOT_URLCONF = 'padron_electoral_backend.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'padron_electoral.wsgi.application'
+WSGI_APPLICATION = 'padron_electoral_backend.wsgi.application'
 
 
 # Database
