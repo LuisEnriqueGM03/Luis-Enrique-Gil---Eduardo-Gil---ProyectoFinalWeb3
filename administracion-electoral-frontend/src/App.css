@@ -1,0 +1,8 @@
+/* App.css - Main application styles */
+
+.App {
+  min-height: 100vh;
+  background-color: #f9fafb;
+}
+
+/* Remove any existing React styles and keep it clean */
